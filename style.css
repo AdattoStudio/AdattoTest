@@ -82,7 +82,7 @@ p {
 	align-items: center;
 }
 .avtor {
-	margin-right: (8px + 12 * (100vw / 1200));
+	margin-right: 12px;
 	color: #fff;
 	font-size: calc(7px + 9 * (100vw / 1400));
 	font-family: 'Montserrat', sans-serif;
